@@ -1,0 +1,6 @@
+project: PROJECT_NAME
+target: unconditional_plural
+duration: 600
+cmds:
+    - cmd: /src/mayhem/fuzz_unconditional_plural.py
+      libfuzzer: true

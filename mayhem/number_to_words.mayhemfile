@@ -1,0 +1,6 @@
+project: PROJECT_NAME
+target: number_to_words
+duration: 600
+cmds:
+    - cmd: /src/mayhem/fuzz_number_to_words.py
+      libfuzzer: true
