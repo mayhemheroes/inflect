@@ -1,4 +1,4 @@
-project: PROJECT_NAME
+project: inflect
 target: compare
 duration: 600
 cmds:

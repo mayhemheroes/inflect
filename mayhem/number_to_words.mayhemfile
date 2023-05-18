@@ -1,4 +1,4 @@
-project: PROJECT_NAME
+project: inflect
 target: number_to_words
 duration: 600
 cmds:
