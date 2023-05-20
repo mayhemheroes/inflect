@@ -1,0 +1,6 @@
+project: inflect
+target: compare
+duration: 600
+cmds:
+    - cmd: /src/mayhem/fuzz_compare.py
+      libfuzzer: true
